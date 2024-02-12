@@ -42,3 +42,6 @@ The PyPoll script analyzes election data to provide insights such as total votes
 
 Once the scripts are executed, the results will be exported to the specified CSV files in the respective `analysis` folders. These files will show a charted view of the results to review. You can access these files using the provided local paths.
 
+#### Resources:
+
+Research was done using google and youtube to supplement the knowledge from class, as well as to navigate some of the more novel/complex codes.
