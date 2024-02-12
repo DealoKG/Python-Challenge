@@ -10,7 +10,7 @@ This repository contains Python scripts for analyzing budget and election data, 
 The PyBank script analyzes financial data to provide insights such as total months, total profits/losses, average change, and the greatest increase and decrease in profits.
 
 #### How to Run:
-- Ensure the `budget_data,csv` file is in the specified path.
+- Ensure the `budget_data.csv` file is in the specified path.
 - Execute the script `main.py`
 - Results will be printed to the terminal and exported to `budget_analysis.csv`.
 
